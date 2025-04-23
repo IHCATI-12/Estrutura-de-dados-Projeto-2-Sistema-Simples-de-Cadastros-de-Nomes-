@@ -27,7 +27,9 @@ Biblioteca Gson (Google) para serialização e desserialização de JSON
 Entrada e saída via console (Scanner, System.out)
 
 📁 Estrutura do Projeto
+
 ├── App.java              # Classe principal com menu interativo
+
 ├── nomes.json            # Arquivo gerado com os nomes salvos
 
 🚀 Como executar
